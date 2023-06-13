@@ -4,6 +4,7 @@
 #include "BubbleSort.h"
 #include "SelectionSort.h"
 #include "InsertionSort.h"
+#include "QuickSort.h"
 
 void metodoBurbuja(Registro *registro);
 
